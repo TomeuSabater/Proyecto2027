@@ -11,5 +11,7 @@ Hago una modificación en la ramadeprueba, hola, hola.
 
 Toco este archivo en RAMA1
 
-Y lo toco desde master
+
+Y lo toco desde master y desde RAMAX
+
 
